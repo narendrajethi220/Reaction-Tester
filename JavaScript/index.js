@@ -1,3 +1,8 @@
+document.getElementById("fig").addEventListener("click", function (Event) {
+  var audio = new Audio("/Audio/click.mp3");
+  audio.play();
+});
+
 var start = new Date().getTime();
 //getting random color for figures;
 function getRndmColor() {
