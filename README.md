@@ -1,21 +1,43 @@
-# Reaction-Tester
-The ultimate test of your reflexes.
-Welcome to the Reaction Tester Game! This is a simple web-based game created using HTML, CSS, and JavaScript. Test your reaction time by clicking on a randomly appearing figure as quickly as possible. This README file provides you with information on how to play the game and set it up on your local machine.
-In the Reaction Tester Game, your goal is to click on a figure that randomly appears on the screen as quickly as possible. Your reaction time will be displayed on the right side of the screen after each successful click. The game will then generate a new figure with a different size and a random location on the page for you to click on.
+# Reaction Tester Game
 
-How to Play
-Open the Game: Launch the game by opening the index.html file in your web browser.
+The Reaction Tester Game is a web-based application designed to test your reflexes. This simple yet engaging game is built using HTML, CSS, and JavaScript. Challenge yourself by clicking on randomly appearing figures as quickly as possible. This README provides instructions on how to play the game and set it up on your local machine.
 
-Read the Instructions: The game screen is divided into sections:
+## How to Play
 
-Heading: The top section with the game title.
-Introduction: A description of the game.
-Game Area: The main game area where the figures will appear.
-Reaction Time: On the right side of the screen, your reaction time will be displayed after each successful click.
-Start the Game: Wait for a figure to randomly appear in the game area.
+1. **Open the Game:**
+   Launch the game by opening the `index.html` file in your web browser.
 
-Click the Figure: As soon as you see the figure, click on it as quickly as possible.
+2. **Read the Instructions:**
+   - **Heading:** The top section with the game title.
+   - **Introduction:** A description of the game.
+   - **Game Area:** The main game area where figures will appear.
+   - **Reaction Time:** On the right side, your reaction time is displayed after each successful click.
 
-Measure Your Reaction Time: After clicking the figure, your reaction time will be displayed on the right side of the screen.
+3. **Start the Game:**
+   Wait for a figure to randomly appear in the game area.
 
-Repeat: The game will generate a new figure for you to click on. Keep trying to improve your reaction time!
+4. **Click the Figure:**
+   As soon as you see the figure, click on it as quickly as possible.
+
+5. **Measure Your Reaction Time:**
+   After clicking the figure, your reaction time will be displayed on the right side of the screen.
+
+6. **Repeat:**
+   The game will generate a new figure for you to click on. Keep trying to improve your reaction time!
+
+## Setting Up Locally
+
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:narendrajethi220/Reaction-Tester.git
+   ```
+
+2. Open the project folder:
+   ```bash
+   cd reaction-tester-game
+   ```
+
+3. Launch the game:
+   Open the `index.html` file in your web browser.
+
+Challenge yourself and enjoy testing your reflexes with the Reaction Tester Game!
